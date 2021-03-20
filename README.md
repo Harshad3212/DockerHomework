@@ -1,1 +1,1 @@
-# DockerHomework
+# DockerHomework: Simple Python Application
